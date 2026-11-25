@@ -8,18 +8,18 @@ First release of MidasBooster, a free one-click game booster for Windows 10 and 
 > Seeing "Windows protected your PC"? Click **More info**, then **Run anyway**. The app is new and not code-signed yet.
 
 ## What's new
-- **One-click BOOST**: applies 120 recommended Windows tweaks automatically, with a live progress ring
+- **One-click BOOST**: turns on 99 Windows tweaks instantly, and turns them off again with one more click
 - **New interface**: sidebar with Game Boost, Tweaks, Ping Test and Restore pages
 - **Game picker**: Fortnite, Valorant, CS2, Roblox, Apex, LoL
 - **123 tweaks in 13 categories**: power, CPU, RAM, GPU, game, input, network, services, scheduled tasks, background, privacy, visual, disk and cleanup
 - **High CPU priority** for 13 games, including Fortnite, Valorant, CS2, LoL, Roblox, Apex, GTA V, R6, CoD and PUBG
-- **Network tweaks**: Nagle off, tuned TCP, Cloudflare DNS, QoS priority for game traffic, network adapter latency settings
+- **Network tweaks**: tuned TCP, Cloudflare DNS, QoS priority for game traffic, network adapter latency settings
 - **Ping Test**: latency, jitter and packet loss to Cloudflare, Google and Quad9
-- **Safe by default**: creates a System Restore point first; 3 aggressive tweaks are opt-in only
-- **Full revert**: the Restore page sets every tweak back to the Windows default
+- **Safe by default**: creates a System Restore point on first use; tweaks that need a restart and 3 aggressive tweaks are opt-in only
+- **Auto undo**: turning BOOST off or closing the app puts every setting back, even after a crash
 - **Installer** with desktop and Start menu shortcuts and an uninstaller
 
 ## Good to know
 - Windows SmartScreen warns on first launch because the app is not signed yet
-- Internet may drop for 1-2 seconds while network adapter tweaks apply
-- A restart is needed for every tweak to take effect
+- No restart needed: tweaks are active only while BOOST is on, and closing the app turns BOOST off
+- Internet may drop for 1-2 seconds while network adapter settings switch on or off

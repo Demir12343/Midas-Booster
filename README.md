@@ -24,13 +24,13 @@
 
 ## What it does
 
-MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 and every other game. Pick your game, press **BOOST**, and it does the rest. It creates a System Restore point before it changes anything, and every tweak can be reverted.
+MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 and every other game. Turn **BOOST** on while you play: 99 tweaks switch on instantly, no restart. Turn it off, or close the app, and every setting goes back to normal.
 
 | | |
 |---|---|
 | ⚡ **Power** | Ultimate Performance plan, no core parking, 100% minimum CPU clock, no USB / PCIe power saving |
-| 🎮 **CPU & GPU** | High CPU priority for 13 games, MMCSS game profile, GPU scheduling, no fullscreen optimizations |
-| 📶 **Network** | Nagle off, tuned TCP, Cloudflare DNS, QoS priority for game traffic, network adapter latency settings |
+| 🎮 **CPU & GPU** | High CPU priority for 13 games, flip-model windowed mode, no fullscreen optimizations, no Game DVR |
+| 📶 **Network** | Tuned TCP, Cloudflare DNS, QoS priority for game traffic, network adapter latency settings |
 | 🧹 **Background** | Telemetry, Game DVR, Copilot, widgets, background apps and 12 unneeded services switched off |
 | 🖱️ **Input** | Mouse acceleration off, faster keyboard repeat, no Sticky / Filter / Toggle Keys popups |
 | 🗑️ **Cleanup** | Temp files, DirectX / NVIDIA / AMD shader caches, Fortnite logs, Epic and Discord caches |
@@ -39,17 +39,17 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 
 ## Features
 
-- **One-click BOOST** with a live progress ring
+- **One-click BOOST**: on while you play, off when you are done. No restart needed
 - **Tweaks page**: see all 123 tweaks and turn any of them off
 - **Ping Test**: latency, jitter and packet loss to Cloudflare, Google and Quad9
-- **Restore page**: revert every tweak, or open Windows System Restore
-- **Safe by default**: 3 aggressive tweaks are opt-in only
+- **Auto undo**: closing the app turns BOOST off; after a crash or shutdown, the next start undoes it
+- **Safe by default**: creates a restore point on first use; restart-only and aggressive tweaks are opt-in
 
 ## Install
 
 1. Download **[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe)**.
 2. Run it and follow the installer. It adds a desktop shortcut.
-3. Open MidasBooster, press **BOOST**, then restart your PC.
+3. Open MidasBooster and press **BOOST**. Press it again, or close the app, to turn it off.
 
 > **"Windows protected your PC"?** Click **More info** → **Run anyway**. MidasBooster is new and not code-signed yet.
 
@@ -59,7 +59,9 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 
 **Will my ping be 0?** No tool can do that. Ping is mostly the distance to the game server. MidasBooster removes Windows-side delay and lag spikes. For the lowest ping, use a cable instead of Wi-Fi and pick the closest matchmaking region.
 
-**Can I undo it?** Yes. Use the Restore page, or the System Restore point created before boosting.
+**Do I need to restart?** No. BOOST works instantly and is only active while it is on.
+
+**Can I undo it?** It undoes itself when you turn BOOST off or close the app. The Restore page and the System Restore point are there as a backup.
 
 ## Changelog
 
