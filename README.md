@@ -40,6 +40,7 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 ## Features
 
 - **One-click BOOST**: on while you play, off when you are done. No restart needed
+- **Deep Boost**: 21 stronger tweaks (Nagle off, MMCSS, GPU scheduling, timer resolution...) that need one restart and stay on until you press Undo
 - **Tweaks page**: see all 123 tweaks and turn any of them off
 - **Ping Test**: latency, jitter and packet loss to Cloudflare, Google and Quad9
 - **Auto undo**: closing the app turns BOOST off; after a crash or shutdown, the next start undoes it

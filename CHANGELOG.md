@@ -9,7 +9,8 @@ First release of MidasBooster, a free one-click game booster for Windows 10 and 
 
 ## What's new
 - **One-click BOOST**: turns on 99 Windows tweaks instantly, and turns them off again with one more click
-- **New interface**: sidebar with Game Boost, Tweaks, Ping Test and Restore pages
+- **New interface**: sidebar with Game Boost, Tweaks, Deep Boost, Ping Test and Restore pages
+- **Deep Boost**: 21 stronger tweaks (Nagle off, MMCSS, GPU scheduling, timer resolution and more) that need one restart; they stay on until you press Undo
 - **Game picker**: Fortnite, Valorant, CS2, Roblox, Apex, LoL
 - **123 tweaks in 13 categories**: power, CPU, RAM, GPU, game, input, network, services, scheduled tasks, background, privacy, visual, disk and cleanup
 - **High CPU priority** for 13 games, including Fortnite, Valorant, CS2, LoL, Roblox, Apex, GTA V, R6, CoD and PUBG
