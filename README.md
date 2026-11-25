@@ -58,6 +58,21 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 
 > **"Windows protected your PC"?** Click **More info** → **Run anyway**. MidasBooster is new and not code-signed yet.
 
+## Why do 2 antivirus engines flag it?
+
+**[VirusTotal: 63 / 65 clean](https://www.virustotal.com/gui/file/780c6a3613c174464586e88e5f4b4f9b66fab856c4b0ab18e34eb40293726ced)**. Microsoft Defender, Kaspersky, Avast, AVG, Bitdefender, ESET, Malwarebytes, McAfee, Norton, Sophos, CrowdStrike and Google all report it as clean.
+
+The only two detections are **SecureAge** (`Malicious`) and **Trapmine** (`Malicious.high.ml.score`). Neither found a known threat. Both use **machine-learning guesses**: they score a file by how it looks, not by matching real malware. MidasBooster gets a high score because of a few traits it shares with many legitimate system tools:
+
+- **Unsigned and new.** It has no code-signing certificate yet, and few people have downloaded it so far.
+- **Asks for administrator rights.** It needs them to change Windows settings.
+- **NSIS installer.** The setup is a compressed installer package (the `overlay` tag). This format is very common, but malware uses it too.
+- **System commands inside.** To apply and undo tweaks it runs built-in Windows tools: `reg`, `powercfg`, `bcdedit`, `sc`, `schtasks`, `netsh` and PowerShell, plus `del` for cleanup and `shutdown /r` for the optional restart.
+
+Every one of these is needed for what the app does, and every change can be undone from inside the app. These two results are **false positives**.
+
+> The scan above is for **v1.0.1**. Each new version gets its own scan.
+
 ## FAQ
 
 **Is it safe?** Yes. See the [VirusTotal scan](https://www.virustotal.com/gui/file/780c6a3613c174464586e88e5f4b4f9b66fab856c4b0ab18e34eb40293726ced). A couple of small engines may flag it with machine-learning guesses because it changes system settings; these are false positives.
