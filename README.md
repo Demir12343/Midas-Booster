@@ -22,6 +22,8 @@
 
 <p align="center"><b>Site:</b> <a href="https://claude.ai/artifact/N5VCkw7MMKDU3r17MiZdys">claude.ai/artifact/N5VCkw7MMKDU3r17MiZdys</a></p>
 
+<p align="center"><a href="https://www.virustotal.com/gui/file/780c6a3613c174464586e88e5f4b4f9b66fab856c4b0ab18e34eb40293726ced"><img src="https://img.shields.io/badge/VirusTotal-scan%20report-394eff?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal scan report"></a></p>
+
 ---
 
 ## What it does
@@ -57,6 +59,8 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 > **"Windows protected your PC"?** Click **More info** → **Run anyway**. MidasBooster is new and not code-signed yet.
 
 ## FAQ
+
+**Is it safe?** Yes. See the [VirusTotal scan](https://www.virustotal.com/gui/file/780c6a3613c174464586e88e5f4b4f9b66fab856c4b0ab18e34eb40293726ced). A couple of small engines may flag it with machine-learning guesses because it changes system settings; these are false positives.
 
 **Can I get banned?** No. MidasBooster only changes Windows settings. It never touches game files, memory or anti-cheat.
 
