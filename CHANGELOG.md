@@ -1,6 +1,6 @@
-# MidasBooster 1.0 Beta
+# MidasBooster 1.0
 
-First public beta of MidasBooster, a free one-click game booster for Windows 10 and 11.
+First release of MidasBooster, a free one-click game booster for Windows 10 and 11.
 
 ## Download
 **[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe)**. Run it and follow the installer.
@@ -19,7 +19,7 @@ First public beta of MidasBooster, a free one-click game booster for Windows 10 
 - **Full revert**: the Restore page sets every tweak back to the Windows default
 - **Installer** with desktop and Start menu shortcuts and an uninstaller
 
-## Known issues (beta)
+## Good to know
 - Windows SmartScreen warns on first launch because the app is not signed yet
 - Internet may drop for 1-2 seconds while network adapter tweaks apply
 - A restart is needed for every tweak to take effect
