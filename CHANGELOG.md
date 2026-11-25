@@ -1,0 +1,25 @@
+# MidasBooster 1.0 Beta
+
+First public beta of MidasBooster, a free one-click game booster for Windows 10 and 11.
+
+## Download
+**[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe)**. Run it and follow the installer.
+
+> Seeing "Windows protected your PC"? Click **More info**, then **Run anyway**. The app is new and not code-signed yet.
+
+## What's new
+- **One-click BOOST**: applies 120 recommended Windows tweaks automatically, with a live progress ring
+- **New interface**: sidebar with Game Boost, Tweaks, Ping Test and Restore pages
+- **Game picker**: Fortnite, Valorant, CS2, Roblox, Apex, LoL
+- **123 tweaks in 13 categories**: power, CPU, RAM, GPU, game, input, network, services, scheduled tasks, background, privacy, visual, disk and cleanup
+- **High CPU priority** for 13 games, including Fortnite, Valorant, CS2, LoL, Roblox, Apex, GTA V, R6, CoD and PUBG
+- **Network tweaks**: Nagle off, tuned TCP, Cloudflare DNS, QoS priority for game traffic, network adapter latency settings
+- **Ping Test**: latency, jitter and packet loss to Cloudflare, Google and Quad9
+- **Safe by default**: creates a System Restore point first; 3 aggressive tweaks are opt-in only
+- **Full revert**: the Restore page sets every tweak back to the Windows default
+- **Installer** with desktop and Start menu shortcuts and an uninstaller
+
+## Known issues (beta)
+- Windows SmartScreen warns on first launch because the app is not signed yet
+- Internet may drop for 1-2 seconds while network adapter tweaks apply
+- A restart is needed for every tweak to take effect
