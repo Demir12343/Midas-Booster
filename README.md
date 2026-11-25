@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe">
+  <a href="https://github.com/Demir12343/Midas-Booster/releases/latest/download/MidasBooster_Setup.exe">
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-MidasBooster__Setup.exe-f0be28?style=for-the-badge" alt="Download MidasBooster_Setup.exe">
   </a>
 </p>
@@ -50,7 +50,7 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 
 ## Install
 
-1. Download **[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe)**.
+1. Download **[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/releases/latest/download/MidasBooster_Setup.exe)**.
 2. Run it and follow the installer. It adds a desktop shortcut.
 3. Open MidasBooster and press **BOOST**. Press it again, or close the app, to turn it off.
 
@@ -68,7 +68,7 @@ MidasBooster applies **120+ proven Windows tweaks** for Fortnite, Valorant, CS2 
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md).
+See [Releases](https://github.com/Demir12343/Midas-Booster/releases) or [CHANGELOG.md](CHANGELOG.md).
 
 ---
 

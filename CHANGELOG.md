@@ -5,7 +5,7 @@ First release of MidasBooster, a free one-click game booster for Windows 10 and 
 ## Download
 **Site:** https://claude.ai/artifact/N5VCkw7MMKDU3r17MiZdys
 
-**[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/raw/main/MidasBooster_Setup.exe)**. Run it and follow the installer.
+**[MidasBooster_Setup.exe](https://github.com/Demir12343/Midas-Booster/releases/latest/download/MidasBooster_Setup.exe)**. Run it and follow the installer.
 
 > Seeing "Windows protected your PC"? Click **More info**, then **Run anyway**. The app is new and not code-signed yet.
 
