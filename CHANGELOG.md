@@ -1,3 +1,16 @@
+# MidasBooster 1.0.1
+
+## Fixes
+- **VPN safe**: BOOST no longer touches DNS while a VPN is on (Cloudflare WARP / One, WireGuard, OpenVPN, Tailscale and others). This fixes Discord and other sites not loading through WARP
+- **Your DNS comes back**: BOOST saves your own DNS settings and restores exactly those when it turns off
+- **DNS only on real network cards**: virtual and VPN adapters are left alone
+- **Discord**: its cache is no longer cleaned while Discord is open
+
+## New
+- **Full screen**: new button next to minimize, or press F11 (Esc to leave)
+
+---
+
 # MidasBooster 1.0
 
 First release of MidasBooster, a free one-click game booster for Windows 10 and 11.

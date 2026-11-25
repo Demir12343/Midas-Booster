@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-f0be28?style=for-the-badge" alt="Version 1.0">
+  <img src="https://img.shields.io/badge/version-1.0.1-f0be28?style=for-the-badge" alt="Version 1.0.1">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0e0d0b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 and 11">
   <img src="https://img.shields.io/badge/tweaks-123-f0be28?style=for-the-badge" alt="123 tweaks">
   <img src="https://img.shields.io/badge/price-free-50d278?style=for-the-badge" alt="Free">
