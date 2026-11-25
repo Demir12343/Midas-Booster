@@ -20,6 +20,8 @@
   </a>
 </p>
 
+<p align="center"><b>Site:</b> <a href="https://claude.ai/artifact/N5VCkw7MMKDU3r17MiZdys">claude.ai/artifact/N5VCkw7MMKDU3r17MiZdys</a></p>
+
 ---
 
 ## What it does
