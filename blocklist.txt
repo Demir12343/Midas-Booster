@@ -1,0 +1,3 @@
+# Stormy Tweaks - revoked license keys (one per line).
+# Add a key here to disable it on every copy at the next launch.
+# Lines that are not a full STORMY-XXXX-XXXX-XXXX key (like this comment) are ignored.
